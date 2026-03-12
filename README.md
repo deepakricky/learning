@@ -24,3 +24,5 @@ Escape Sequence characters comprise of more than one character but represent one
 
 Lists: Python lists are containers to store a set of values of any data type.
 lists are mutable
+
+A tuple is an immutable data type in python.

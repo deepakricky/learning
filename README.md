@@ -42,3 +42,8 @@ Set is a collection of non-repetitive elements.
 Condtional exp, if else and elif:
 1.There can be any number of elif statements.
 2.Last else is executed only if all the conditions inside elifs fail.
+
+Loops:
+
+Sometimes we want to repeat a set of statements in our program. For instance: Print 1 to 1000.
+Loops make it easy for a programmer to tell the computer which set of instructions to repeat and how!

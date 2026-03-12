@@ -15,3 +15,7 @@ input: It is important to note that the output of input is always a string (even
 
 String is a data type in python.
 String is a sequence of characters enclosed in quotes.
+
+ESCAPE SEQUENCE CHARACTERS
+Sequence of characters after backslash "\" → Escape Sequence characters
+Escape Sequence characters comprise of more than one character but represent one character when used within the strings.

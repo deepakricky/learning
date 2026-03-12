@@ -8,3 +8,4 @@ print(a)
 print(a.count(1)) # how many time 1 in tuple a
 i = a.index(25)
 print(i)
+print (25 in a) #checks if ther's 25 in tuple a

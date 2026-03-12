@@ -22,4 +22,5 @@ ESCAPE SEQUENCE CHARACTERS
 Sequence of characters after backslash "\" → Escape Sequence characters
 Escape Sequence characters comprise of more than one character but represent one character when used within the strings.
 
-Lits: Python lists are containers to store a set of values of any data type.
+Lists: Python lists are containers to store a set of values of any data type.
+lists are mutable

@@ -1,4 +1,6 @@
-a = "31.2"
-b = float(a) # a but the type should be float
-t = type(b) 
-print(t) 
+a="Raptor"
+print(type(a))
+b="55.23" #this is a str
+print(type(b))
+c=float(b) #changing it to float coz it is possible
+print(type(c))

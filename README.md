@@ -90,3 +90,11 @@ def func1():
     print('hello')
     
 This function can be called any number of times, anywhere in the program.
+
+FUNCTION CALL: 
+
+Whenever we want to call a function, we put the name of the function followed by parentheses as follows: func1() # This is called function call.
+
+FUNCTION DEFINITION:
+
+The part containing the exact set of instructions which are executed during the function call.

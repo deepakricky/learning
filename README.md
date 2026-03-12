@@ -60,3 +60,7 @@ If the loop is entered, the process of [condition check & execution] is continue
 for loop:
 
 A for loop is used to iterate through a sequence like list, tuple, or string [iterables]
+
+range fucntion:
+
+The range() function in python is used to generate a sequence of number.

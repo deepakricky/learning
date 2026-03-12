@@ -39,3 +39,7 @@ Set is a collection of non-repetitive elements.
 3.There is no way to change items in sets.
 4.Sets cannot contain duplicate values.
 
+condtional exp, if else and elif:
+
+1.There can be any number of elif statements.
+2.Last else is executed only if all the conditions inside elifs fail.

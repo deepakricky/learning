@@ -51,3 +51,12 @@ Loops make it easy for a programmer to tell the computer which set of instructio
 Primarily there are two types of loops in python.
 •while loops
 •for loops
+
+while loop:
+
+In while loops, the condition is checked first. If it evaluates to true, the body of the loop is executed otherwise not!
+If the loop is entered, the process of [condition check & execution] is continued until the condition becomes False.
+
+for loop:
+
+A for loop is used to iterate through a sequence like list, tuple, or string [iterables]

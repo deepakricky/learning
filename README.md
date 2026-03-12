@@ -26,3 +26,10 @@ Lists: Python lists are containers to store a set of values of any data type.
 lists are mutable
 
 A tuple is an immutable data type in python.
+
+Dictionary is a collection of keys-value pairs.
+1.It is unordered.
+2.It is mutable.
+3.It is indexed.
+4.Cannot contain duplicate keys.
+

@@ -33,3 +33,5 @@ Dictionary is a collection of keys-value pairs.
 3.It is indexed.
 4.Cannot contain duplicate keys.
 
+Set is a collection of non-repetitive elements.
+

@@ -71,3 +71,10 @@ An optional else can be used with a for loop if the code is to be executed when 
 
 THE BREAK STATEMENT: 
 ‘break’ is used to come out of the loop when encountered. It instructs the program to – exit the loop now.
+
+THE CONTINUE STATEMENT
+‘continue’ is used to stop the current iteration of the loop and continue with the next one. It instructs the Program to “skip this iteration”.
+
+PASS STATEMENT
+pass is a null statement in python.
+It instructs to “do nothing”.

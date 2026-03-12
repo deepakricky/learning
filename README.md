@@ -65,3 +65,6 @@ range fucntion:
 
 The range() function in python is used to generate a sequence of number.
 We can also specify the start, stop and step-size as follows: range(start, stop, step_size) # step_size is usually not used with range()
+
+FOR LOOP WITH ELSE: 
+An optional else can be used with a for loop if the code is to be executed when the loops exhausts.

@@ -68,3 +68,6 @@ We can also specify the start, stop and step-size as follows: range(start, stop,
 
 FOR LOOP WITH ELSE: 
 An optional else can be used with a for loop if the code is to be executed when the loops exhausts.
+
+THE BREAK STATEMENT: 
+‘break’ is used to come out of the loop when encountered. It instructs the program to – exit the loop now.

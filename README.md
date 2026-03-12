@@ -15,6 +15,8 @@ input: It is important to note that the output of input is always a string (even
 
 String is a data type in python.
 String is a sequence of characters enclosed in quotes.
+Strings are immutable which means that you cannot change them by running functions on them
+
 
 ESCAPE SEQUENCE CHARACTERS
 Sequence of characters after backslash "\" → Escape Sequence characters

@@ -117,3 +117,9 @@ A function can also return value
 DEFAULT PARAMETER VALUE
 We can have a value as default as default argument in a function.
 If we specify name = “stranger” in the line containing def, this value is used when no argument is passed.
+
+RECURSION:
+
+Recursion is a function which calls itself.
+It is used to directly use a mathematical formula as function.
+Example: factorial(n) = n x factorial (n-1)

@@ -166,3 +166,11 @@ SELF PARAMETER:
 
 self refers to the instance of the class. It is automatically passed with a function call from an object. harry.getSalary()
 
+__INIT__() CONSTRUCTOR:
+
+__init__() is a special method which is first run as soon as the object is created.
+
+__init__() method is also known as constructor.
+
+It takes ‘self’ argument and can also take further arguments.
+

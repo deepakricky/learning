@@ -143,4 +143,9 @@ a - open for appending
 
 In order to write to a file, we first open it in write or append mode after which, we use the python’s f.write() method to write to the file!
 
+OBJECT ORIENTED PROGRAMMING
+
+Solving a problem by creating object is one of the most popular approaches in programming. This is called object-oriented programming.
+This concept focuses on using reusable code
+
 WITH STATEMENT: The best way to open and close the file automatically is the with statement.

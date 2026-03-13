@@ -118,8 +118,18 @@ DEFAULT PARAMETER VALUE
 We can have a value as default as default argument in a function.
 If we specify name = “stranger” in the line containing def, this value is used when no argument is passed.
 
+Files:
+
+The random-access memory is volatile, and all its contents are lost once a program terminates. In order to persist the data forever, we use files.
+A file is data stored in a storage device. A python program can talk to the file by reading content from it and writing content to it.
+
 RECURSION:
 
 Recursion is a function which calls itself.
 It is used to directly use a mathematical formula as function.
 Example: factorial(n) = n x factorial (n-1)
+
+There are 2 types of files:
+1.Text files (.txt, .c, etc)
+2.Binary files (.jpg, .dat, etc)
+Python has a lot of functions for reading, updating, and deleting files.

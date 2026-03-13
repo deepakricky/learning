@@ -149,3 +149,16 @@ Solving a problem by creating object is one of the most popular approaches in pr
 This concept focuses on using reusable code
 
 WITH STATEMENT: The best way to open and close the file automatically is the with statement.
+
+Class: class is a blueprint for creating object.
+
+OBJECT:
+
+An object is an instantiation of a class. When class is defined, a template (info) is defined. Memory is allocated only after object instantiation.
+Objects of a given class can invoke the methods available to it without revealing the implementation details to the user. – Abstractions & Encapsulation!
+
+CLASS ATTRIBUTES : An attribute that belongs to the class rather than a particular object.
+
+INSTANCE ATTRIBUTES: An attribute that belongs to the Instance (object).
+Instance attributes, take preference over class attributes during assignment & retrieval.
+

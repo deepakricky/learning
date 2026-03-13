@@ -110,3 +110,10 @@ There are two types of functions in python:
 Examples of built in functions includes len(), print(), range() etc.
 
 The func1() function we defined is an example of user defined function.
+
+A function can accept some value it can work with. We can put these values in the parentheses.
+A function can also return value
+
+DEFAULT PARAMETER VALUE
+We can have a value as default as default argument in a function.
+If we specify name = “stranger” in the line containing def, this value is used when no argument is passed.

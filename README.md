@@ -162,3 +162,7 @@ CLASS ATTRIBUTES : An attribute that belongs to the class rather than a particul
 INSTANCE ATTRIBUTES: An attribute that belongs to the Instance (object).
 Instance attributes, take preference over class attributes during assignment & retrieval.
 
+SELF PARAMETER:
+
+self refers to the instance of the class. It is automatically passed with a function call from an object. harry.getSalary()
+

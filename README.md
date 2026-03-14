@@ -181,3 +181,5 @@ Abstraction: Hiding complex details and showing only necessary features
 Inheritance: Allowing a new class to acquire properties of an existing class.
 Polymorphism: The ability of a variable or function to take on multiple forms.
 
+SUPER() METHOD: 
+super() method is used to access the methods of a super class in the derived class. super().__init__()

@@ -174,3 +174,14 @@ __init__() method is also known as constructor.
 
 It takes ‘self’ argument and can also take further arguments.
 
+Object-Oriented Programming (OOP) is based on four main pillars:
+
+ * Encapsulation: Wrapping data and methods into a single unit (class).
+ * 
+ * Abstraction: Hiding complex details and showing only necessary features
+ 
+ * Inheritance: Allowing a new class to acquire properties of an existing class.
+ * 
+ * Polymorphism: The ability of a variable or function to take on multiple forms.
+ * 
+

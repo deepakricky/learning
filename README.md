@@ -183,3 +183,8 @@ Polymorphism: The ability of a variable or function to take on multiple forms.
 
 SUPER() METHOD: 
 super() method is used to access the methods of a super class in the derived class. super().__init__()
+
+EXCEPTION HANDLING IN PYTHON:
+
+There are many built-in exceptions which are raised in python when something goes wrong.
+Exception in python can be handled using a try statement. The code that handles the exception is written in the except clause.

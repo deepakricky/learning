@@ -188,3 +188,8 @@ EXCEPTION HANDLING IN PYTHON:
 
 There are many built-in exceptions which are raised in python when something goes wrong.
 Exception in python can be handled using a try statement. The code that handles the exception is written in the except clause.
+
+LAMBDA FUNCTIONS:
+
+Function created using an expression using ‘lambda’ keyword.
+Syntax: lambda arguments:expressions
